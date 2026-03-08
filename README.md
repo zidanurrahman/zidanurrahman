@@ -1,4 +1,4 @@
-# Hi, I'm Zidanurrahman 👋
+# Hi, I'm Zidanur Rahman 👋
 
 **Chemical Engineering Candidate | Petrochemistry & Organic Compounds | Bangladesh 🇧🇩**
 
