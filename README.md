@@ -61,7 +61,7 @@ I am applying for the **Romanian Government Scholarship** to study **Chemistry a
 ## 🌍 About Me
 
 - 📍 Narayanganj, Bangladesh — home of one of Bangladesh's major industrial zones
-- 🎯 Target field: Petrochemistry, Carbochemistry, Organic Chemical Engineering
+- 🎯 Target field: Chemistry and Engineering of Organic Compounds, Petrochemistry and Carbochemistry
 - 🇷🇴 Learning Romanian (A1) — committed to academic integration
 - 📚 Interests outside engineering: books, filmmaking, technology
 
