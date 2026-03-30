@@ -53,8 +53,8 @@ I am applying for the **Romanian Government Scholarship** to study **Chemistry a
 
 | | Grade | Distinction |
 |-|-------|-------------|
-| HSC (Science) | GPA 4.00 / 5.00 | Grade A — Physics & Chemistry |
-| SSC (Science) | GPA 4.78 / 5.00 | Distinction — Physics, Math, Chemistry |
+| HSC (Science) | GPA 4.00 / 5.00 | Grade A in Physics, Chemistry and English |
+| SSC (Science) | GPA 4.78 / 5.00 | A+ in Physics and Mathematics · A in Chemistry and English |
 
 ---
 
