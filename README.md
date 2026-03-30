@@ -27,7 +27,7 @@ I am applying for the **Romanian Government Scholarship** to study **Chemistry a
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| Process Safety — ELA 950, 951, 952 | American Institute of Chemical Engineers | 2026 |
+| AIChE Process Safety Certification Series — ELA 950, 951 & 952 | American Institute of Chemical Engineers | 2026 |
 | Chemical Reaction Engineering | Sanfoundry | 2025 |
 | Heat Transfer Operations | Sanfoundry | 2025 |
 | English C1 | EF SET | 2026 |
